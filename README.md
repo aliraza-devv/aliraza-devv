@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/aliraza_dev" target="blank"><img src="https://img.shields.io/twitter/follow/aliraza_dev?logo=twitter&style=for-the-badge" alt="aliraza_dev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://aliraza-portfolio.vercel.app/](https://aliraza-portfolio.vercel.app/)
+- 👨‍💻 My Portfolio is: [https://aliraza-portfolio.vercel.app/](https://aliraza-portfolio.vercel.app/)
 
-- 💬 Ask me about **react, Next.js, JavaScript, CSS, Front-End**
+- 💬 Ask me about **react, Next.js, JavaScript, TypeScript, HTML, CSS, Front-End**
 
 - 📫 How to reach me **aliraza.dev.web@gmail.com**
 
