@@ -8,7 +8,7 @@
 
 - 👨‍💻 My Portfolio is: [https://aliraza-portfolio.vercel.app/](https://aliraza-portfolio.vercel.app/)
 
-- 💬 Ask me about **react, Next.js, JavaScript, TypeScript, HTML, CSS, Front-End**
+- 💬 Ask me about anything, I am happy to help.
 
 - 📫 How to reach me **aliraza.dev.web@gmail.com**
 
