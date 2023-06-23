@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/aliraza_dev" target="blank"><img src="https://img.shields.io/twitter/follow/aliraza_dev?logo=twitter&style=for-the-badge" alt="aliraza_dev" /></a> </p>
 
-- 👨‍💻 My Portfolio is: [https://aliraza-portfolio.vercel.app/](https://aliraza-portfolio.vercel.app/)
+- 👨‍💻 My Portfolio website is: [https://www.alirazaa.dev/](https://www.alirazaa.dev/)
 
 - 💬 Ask me about anything, I am happy to help.
 
-- 📫 How to reach me **aliraza.dev.web@gmail.com**
+- 📫 How to reach me **contact@alirazaa.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
