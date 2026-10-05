@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/aliraza_dev" target="blank"><img src="https://img.shields.io/twitter/follow/aliraza_dev?logo=twitter&style=for-the-badge" alt="aliraza_dev" /></a> </p>
 
-- 👨‍💻 My Portfolio website is: [https://www.alirazaa.dev/](https://www.alirazaa.dev/)
+- 👨‍💻 My Portfolio website is: [https://nexdevsolutions.net/](https://nexdevsolutions.net/)
 
 - 💬 Ask me about anything, I am happy to help.
 
-- 📫 How to reach me **contact@alirazaa.dev**
+- 📫 How to reach me **ali@nexdevsolutions.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
