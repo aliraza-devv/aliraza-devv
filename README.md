@@ -10,7 +10,7 @@
 
 - 💬 Ask me about anything, I am happy to help.
 
-- 📫 How to reach me **ali@nexdevsolutions.net**
+- 📫 How to reach me **aliraza.dev.web@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
